@@ -14,12 +14,10 @@ for(int i = 0;i < 10;i++){
 >`for`循环也有第二个用法.
 
 >```
-
 int[] arr = {1,3,5,6,9};
 for(int i:arr){
    System.out.println(i);
 }
-
 ```
 >这个循环的作用就是遍历数组arr。
 
