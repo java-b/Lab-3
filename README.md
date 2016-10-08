@@ -40,7 +40,6 @@ for(;;)
 >```
 
 int num = 0;
-
 while(num<2322){
    num += 4;
    num *= num;
